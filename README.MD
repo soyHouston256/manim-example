@@ -1,0 +1,1 @@
+manim -pql portfolio_optimization.py OptimizationComparison
